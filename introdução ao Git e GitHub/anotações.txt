@@ -1,0 +1,15 @@
+Curso da DIO de Git e GitHub
+
+
+Link para download do Git: https://git-scm.com/downloads
+
+Link para download do GitHub: https://desktop.github.com/
+
+Link para video do youtube professor Venilton Falvo Jr: 
+
+Introdução: https://www.youtube.com/watch?v=zaN1_46mFgQ
+Relembrando algumas coisas: https://www.youtube.com/watch?v=6mHThwgM9ck
+Desafio de projeto: https://www.youtube.com/watch?v=jbD20ueImmk
+
+
+Link do site da DIO: https://web.digitalinnovation.one/
